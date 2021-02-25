@@ -1,0 +1,13 @@
+TestFor_CountInterview=True
+Testfor_UpdateUser=True
+Testfor_GetUserById=True
+TestFor_UpdateInterview=True
+TestFor_GetInterviewByName=True
+Testfor_DeleteUser=True
+Testfor_GetAllUser=True
+Testfor_Validate_ValidUserRegister=True
+Testfor_Validate_Valid_AddInterview=True
+TestFor_GetInterviewById=True
+TestFor_GetAllInterview=True
+TestFor_DeleteInterview=True
+TestFor_GetInterviewByInterviewerName=True

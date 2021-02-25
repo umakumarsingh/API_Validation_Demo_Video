@@ -1,0 +1,5 @@
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp3.1\InterviewTracker.Entities.deps.json
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp3.1\InterviewTracker.Entities.dll
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp3.1\InterviewTracker.Entities.csprojAssemblyReference.cache
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp3.1\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp3.1\InterviewTracker.Entities.AssemblyInfo.cs
