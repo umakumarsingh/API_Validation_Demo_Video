@@ -38,8 +38,7 @@ namespace InterviewTracker.Controllers
         /// </summary>
         /// <param name="InterviewId"></param>
         /// <returns>AllInterviewAsync method</returns>
-        [HttpGet]
-        [Route("Getinterview/{InterviewId}")]
+        [HttpGet("{InterviewId}")]
         public async Task<IActionResult> Getinterview(string InterviewId)
         {
             
